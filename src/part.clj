@@ -1,5 +1,6 @@
 (ns part
   (:require
+   [clojure.core.matrix :as m]
    [closcad.core :as scad]
    [closcad.utils :as u]))
 

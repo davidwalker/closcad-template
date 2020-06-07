@@ -1,3 +1,4 @@
 {:deps
  {closcad {:git/url "https://github.com/davidwalker/closcad"
-           :sha "5366b17c5ec914226d9317cd20fa8931634cde72"}}}
+           :sha "fc5de78293306d21f4e2111603cee024829751e6"}
+  net.mikera/core.matrix {:mvn/version "0.62.0"}}}
